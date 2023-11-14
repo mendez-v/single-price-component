@@ -176,6 +176,12 @@ body {
   transition: inline-size .3s ease-in-out;
 }
 
+.section-link:focus-visible,
+.attribution-link:focus-visible {
+  outline: .15em dotted currentColor;
+  outline-offset: .15em;
+}
+
 @media (hover:hover) {
   .section-link:hover {
     background-color: var(--neutral-0);
