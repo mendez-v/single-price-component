@@ -41,7 +41,7 @@ Users should be able to:
 
 [Demo](https://mendez-v.github.io/single-price-component/) 👀
 
-<!-- [Frontend Mentor](https://your-solution-url.com) 👀 -->
+[Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-using-css-grid-KPam6blLqo) 👀
 
 ## My process
 
