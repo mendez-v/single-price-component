@@ -39,9 +39,11 @@ Users should be able to:
 
 ### Links
 
-[Demo](https://mendez-v.github.io/single-price-component/) 👀
+[Live Site](https://mendez-v.github.io/single-price-component/) 👀
 
-[Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-using-css-grid-KPam6blLqo) 👀
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-using-css-grid-KPam6blLqo) 👀
+
+[Challenge repository](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
 ## My process
 
